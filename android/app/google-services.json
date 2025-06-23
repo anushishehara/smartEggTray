@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313906554152",
+    "project_id": "iotcw-3bae1",
+    "storage_bucket": "iotcw-3bae1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313906554152:android:89a2c1a1643058114b9c1d",
+        "android_client_info": {
+          "package_name": "com.example.iot_cw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOELfQOkZFIlw_bindL7Y8jTIyWtEJmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
